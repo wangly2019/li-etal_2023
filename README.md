@@ -7,11 +7,17 @@ _your zenodo badge here_
 Dan Li<sup>1\*</sup>, Linying Wang<sup>1</sup>, Weilin Liao<sup>2</sup>, Ting Sun<sup>3</sup>,Gabriel Katul<sup>4</sup>, Elie Bou-Zeid<sup>5</sup>, and Björn Maronga<sup>6,7</sup>
 
 <sup>1 </sup> Department of Earth and Environment, Boston University, Boston, USA
+
 <sup>2 </sup> Guangdong Key Laboratory for Urbanization and Geo-simulation, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China 
+
 <sup>3 </sup> Institute for Risk and Disaster Reduction, University of College London, London, UK
+
 <sup>4 </sup> Department of Civil and Environmental Engineering, Duke University, Durham, USA
+
 <sup>5 </sup> Department of Civil and Environmental Engineering, Princeton University, Princeton, USA
+
 <sup>6 </sup> Institute of Meteorology and Climatology, Leibniz University Hannover, Hannover, Germany
+
 <sup>7 </sup> Geophysical Institute, University of Bergen, Bergen, Norway
 
 \* corresponding author:  lidan@bu.edu
