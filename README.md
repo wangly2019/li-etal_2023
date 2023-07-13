@@ -1,20 +1,26 @@
 _your zenodo badge here_
 
-# lastname-etal_year_journal
+# li-etal_2023
 
-**A long-term global energy-economic model of carbon dioxide release from fossil fuel use**
+**Persistent Urban Heat**
 
-Jae Edmonds<sup>1\*</sup> and John Reilly<sup>1</sup>
+Dan Li<sup>1\*</sup>, Linying Wang<sup>1</sup>, Weilin Liao<sup>2</sup>, Ting Sun<sup>3</sup>,Gabriel Katul<sup>4</sup>, Elie Bou-Zeid<sup>5</sup>, and Björn Maronga<sup>6,7</sup>
 
-<sup>1 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, 1346 Connecticut Avenue, NW, Washington, DC 20036, USA
+<sup>1 </sup> Department of Earth and Environment, Boston University, Boston, USA
+<sup>2 </sup> Guangdong Key Laboratory for Urbanization and Geo-simulation, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China 
+<sup>3 </sup> Institute for Risk and Disaster Reduction, University of College London, London, UK
+<sup>4 </sup> Department of Civil and Environmental Engineering, Duke University, Durham, USA
+<sup>5 </sup> Department of Civil and Environmental Engineering, Princeton University, Princeton, USA
+<sup>6 </sup> Institute of Meteorology and Climatology, Leibniz University Hannover, Hannover, Germany
+<sup>7 </sup> Geophysical Institute, University of Bergen, Bergen, Norway
 
-\* corresponding author:  email@myorg.gov
+\* corresponding author:  lidan@bu.edu
 
 ## Abstract
-In this paper the authors develop a long-term global energy-economic model which is capable of assessing alternative energy evolutions over periods of up to 100 years. The authors have sought to construct the model so that it can perform its assigned task with as simple a modelling system as possible. The model structure is fully documented and a brief summary of results is given.
+While urban surface and near-surface air temperatures are known to be often higher than their rural counterparts, a phenomenon labeled as urban heat islands (UHIs), whether urban temperatures are more persistent than rural temperatures at time scales commensurate to heat waves has not been addressed despite the importance for human health. Combining numerical simulations by a global model with a surface energy balance theory, we demonstrate that urban surface and near-surface air temperatures are significantly more persistent than their rural counterparts in cities dominated by materials with large thermal inertia. Further use of these materials will result in even stronger urban temperature persistence, especially for tropical cities. Mitigation strategies that can simultaneously ameliorate the larger magnitude and stronger persistence of urban temperatures are recommended.
 
 ## Journal reference
-Edmonds, J., & Reilly, J. (1983). A long-term global energy-economic model of carbon dioxide release from fossil fuel use. Energy Economics, 5(2), 74-88. DOI: https://doi.org/10.1016/0140-9883(83)90014-2
+Li, D., L. Wang, W. Liao, T. Sun, G. Katul, E. Bou-Zeid, & B. Maronga (2023). Persistent Urban Heat. 
 
 ## Code reference
 References for each minted software release for all code involved.  
